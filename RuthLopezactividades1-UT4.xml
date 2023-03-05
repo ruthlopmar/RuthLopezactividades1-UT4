@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilos.css"?>
+<equipoFutbol>
+   <equipo>
+      <nombre> Real Madrid Club de Fútbol</nombre>
+      <entrenador>Carlo Ancelotti</entrenador>
+        <jugadores>
+            <jugador>
+            <nombre>Thibaut Courtois</nombre>
+            </jugador>
+            <jugador>
+            <nombre>Karim Benzema</nombre>
+            </jugador>
+            <jugador>
+            <nombre>Vinícius Júnior</nombre>
+            </jugador>
+            <jugador>
+            <nombre>Toni Kroos</nombre>
+            </jugador>
+            <jugador>
+            <nombre>Luka Modrić</nombre>
+            </jugador>
+        </jugadores>
+   </equipo>
+</equipoFutbol>
